@@ -1,0 +1,22 @@
+{
+  "name": "udp",
+  "version": "1.0.0",
+  "description": "Udp client / server implementation for self discovery on a network",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamescchristie/udp.git"
+  },
+  "author": "James C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamescchristie/udp/issues"
+  },
+  "homepage": "https://github.com/jamescchristie/udp#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0"
+  }
+}
